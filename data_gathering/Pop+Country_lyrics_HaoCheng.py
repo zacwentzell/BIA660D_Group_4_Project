@@ -1,5 +1,5 @@
 # coding: utf-8
-##Hao Cheng
+
 # In[2]:
 
 import requests
