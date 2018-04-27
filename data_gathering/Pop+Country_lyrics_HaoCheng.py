@@ -1,5 +1,5 @@
 # coding: utf-8
-#Hao Cheng
+
 # In[2]:
 
 import requests
@@ -317,4 +317,3 @@ result[:]
 # In[22]:
 
 result.to_csv('lyrics_country_299.csv')
-
